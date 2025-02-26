@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gdbundle-plot"
-version = "0.0.3"
+version = "0.0.7"
 description = "Plot 1-D arrays"
 authors = ["Cyril Fougeray <cyril.fougeray@gmail.com>"]
 readme = "README.md"
@@ -19,6 +19,7 @@ classifiers = [
     "Programming Language :: Python :: 3.5",
     "Programming Language :: Python :: 3.6",
     "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.11",
     "Topic :: Software Development :: Debuggers",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
